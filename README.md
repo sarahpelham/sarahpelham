@@ -1,10 +1,3 @@
-# 💫About Me :
-Actively seeking junior full-stack developer positions to grow as a software engineer, build powerful solutions and work with exceptional people.
-
-I started out in startups as that Swiss Army knife type person and was fortunate to have opportunities to dive in, learn, lead and make a real impact. As a curious learner with a growth mindset, I saw the magic of a solution coming to life while working alongside developers and wanted to join in. Now I’m excited to have made the career leap and looking forward to exploring the potential of this new skillset.
-
-Tech I'm using: Ruby on Rails, PostgreSQL, Javascript, Bootstrap, CSS, HTML, Responsive Web Design, Figma
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-m-pelham) 
 
