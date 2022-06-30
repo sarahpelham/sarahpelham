@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Sarah</h3>
 <p align="center">
-  <a href="https://www.sarahpelham.com">Website</a> •
+  <a href="https://sarahpelham.com/">Website</a> •
   <a href="https://www.linkedin.com/in/sarah-m-pelham">LinkedIn</a>
 </p>
 
